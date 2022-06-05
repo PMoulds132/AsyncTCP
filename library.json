@@ -14,7 +14,7 @@
   },
   "version": "1.1.1",
   "license": "LGPL-3.0",
-  "frameworks": "arduino",
+  "frameworks": "*",
   "platforms": "espressif32",
   "build": {
     "libCompatMode": 2
